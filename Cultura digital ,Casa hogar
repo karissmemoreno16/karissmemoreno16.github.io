@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Hogar Chetumal - Inicio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Apoyo a la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="introduction">
+            <h2>Introducción al Proyecto</h2>
+            <p>Este proyecto se enfoca en comprender y mejorar la situación de la Casa Hogar de Chetumal, buscando soluciones sostenibles para el bienestar de los niños y adolescentes que residen allí. A través de la investigación y el análisis de datos, esperamos proponer acciones concretas que generen un impacto positivo en la comunidad y en la calidad de vida de los menores.</p>
+        </section>
+
+        <section id="context">
+            <h2>Contexto de la Casa Hogar</h2>
+            [span_0](start_span)<p>La mayoría de las casas hogar enfrentan desafíos económicos significativos, a menudo no recibiendo suficiente apoyo gubernamental y dependiendo en gran medida de donaciones, organizaciones civiles y actividades de recaudación de fondos para subsistir[span_0](end_span). [span_1](start_span)Esta situación puede afectar directamente la calidad de vida de los niños, limitando los recursos disponibles para necesidades básicas como comida y ropa[span_1](end_span).</p>
+            [span_2](start_span)<p>Un informe en una casa hogar de Piedras Negras, Coahuila, reveló que el gasto mensual promedio para operar una casa hogar con 33 menores es de aproximadamente 130,000 pesos mexicanos, cubriendo servicios básicos, alimentación y gastos extraordinarios[span_2](end_span).</p>
+            [span_3](start_span)<p>Las causas de la falta de recursos incluyen la falta de apoyo gubernamental, la dependencia de donaciones privadas, la corrupción y mala administración, los altos costos operativos y el crecimiento de la demanda[span_3](end_span).</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Casa Hogar Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Hogar Chetumal - Acerca de</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Apoyo a la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="team-info">
+            <h2>Información del Equipo</h2>
+            <p>Este proyecto ha sido desarrollado por un equipo dedicado a la investigación social y el apoyo comunitario. Nuestro objetivo es generar un impacto positivo en la vida de los niños y adolescentes de la Casa Hogar de Chetumal.</p>
+            </section>
+
+        <section id="project-objectives">
+            <h2>Objetivos del Proyecto</h2>
+            <ul>
+                <li>Evaluar la percepción pública sobre el apoyo económico y la gestión de la Casa Hogar de Chetumal.</li>
+                <li>Identificar áreas de oportunidad para mejorar el financiamiento y la transparencia de la institución.</li>
+                <li>Proponer soluciones prácticas y colaborativas para el sostenimiento de la casa hogar y la mejora de la calidad de vida de sus residentes.</li>
+                <li>Fomentar la participación ciudadana y gubernamental en el apoyo a la casa hogar.</li>
+            </ul>
+        </section>
+
+        <section id="infographic-relation">
+            <h2>Relación con la Infografía Previa</h2>
+            <p>La información presentada en este sitio web se basa en los hallazgos iniciales y el contexto establecido en la infografía titulada "Situación económica de la casa hogar". [span_4](start_span)La infografía destacó la dependencia de las donaciones, la falta de apoyo gubernamental y los altos costos operativos como factores clave que afectan la calidad de vida de los niños[span_4](end_span). Este proyecto profundiza en esos temas a través de una investigación más detallada y propone soluciones concretas basadas en la percepción de la comunidad.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Casa Hogar Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Hogar Chetumal - Investigación</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .form-section {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Apoyo a la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="methodology">
+            <h2>Metodología Utilizada</h2>
+            <p>Para comprender la percepción pública sobre la Casa Hogar de Chetumal, se realizó una encuesta a 102 personas. La encuesta recopiló datos demográficos como sexo y edad, y exploró opiniones sobre diversos aspectos del apoyo, financiamiento y transparencia de la institución. Las preguntas fueron diseñadas para obtener una visión integral de cómo la comunidad percibe y valora el trabajo de la casa hogar.</p>
+        </section>
+
+        <section id="survey-form">
+            <h2>Formulario de Encuesta</h2>
+            <div class="form-section">
+                <p>A continuación, se presenta un enlace al formulario de encuesta utilizado para la recolección de datos. Este formulario fue crucial para obtener las perspectivas de la comunidad sobre la Casa Hogar de Chetumal.</p>
+                <p><a href="https://forms.gle/your-survey-link-here" target="_blank">Enlace al Formulario de Encuesta</a></p>
+                <p><em>(Nota: Sustituye "https://forms.gle/your-survey-link-here" con el enlace real a tu formulario de Google Forms o plataforma de encuesta utilizada).</em></p>
+            </div>
+        </section>
+
+        <section id="key-questions">
+            <h2>Muestra de Preguntas Clave</h2>
+            <p>Algunas de las preguntas clave incluidas en la encuesta fueron:</p>
+            <ul>
+                [span_5](start_span)<li>¿Qué tan justo consideras que es el apoyo económico que recibe la casa hogar de Chetumal?[span_5](end_span)</li>
+                [span_6](start_span)<li>¿Qué opinas del papel que juega la sociedad en el sostenimiento de la casa hogar?[span_6](end_span)</li>
+                [span_7](start_span)<li>¿Qué tan confiable te parece que es donar a la casa hogar?[span_7](end_span)</li>
+                [span_8](start_span)<li>¿Qué piensas sobre el rol del gobierno en el financiamiento de la casa hogar?[span_8](end_span)</li>
+                [span_9](start_span)<li>¿Cómo te hace sentir ver campañas para apoyar a la casa hogar?[span_9](end_span)</li>
+                [span_10](start_span)<li>¿Qué impresión te da la casa hogar cuando escuchas de ella?[span_10](end_span)</li>
+                [span_11](start_span)<li>¿Qué opinas de que la casa hogar pida ayuda constantemente?[span_11](end_span)</li>
+                [span_12](start_span)<li>¿Qué percepción tienes sobre cómo usan el dinero en la casa hogar?[span_12](end_span)</li>
+                [span_13](start_span)<li>¿Qué tanto valoras el trabajo que hace la casa hogar en tu comunidad?[span_13](end_span)</li>
+                [span_14](start_span)<li>¿Cuál es tu opinión sobre la transparencia de esta institución?[span_14](end_span)</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Casa Hogar Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Hogar Chetumal - Resultados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        .chart-container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            text-align: center; /* Center images */
+        }
+        .chart-container img {
+            max-width: 100%;
+            height: auto;
+            display: block; /* Ensures image is on its own line */
+            margin: 0 auto; /* Centers the image */
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Apoyo a la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="main-findings">
+            <h2>Análisis de Hallazgos Principales e Interpretación de Datos</h2>
+            <p>Se encuestaron a 102 personas para conocer su percepción sobre la Casa Hogar de Chetumal. Los resultados ofrecen una visión detallada de la opinión pública respecto al apoyo económico, el rol de la sociedad y el gobierno, la confiabilidad de las donaciones, y la transparencia de la institución.</p>
+
+            <div class="chart-container">
+                <h3>Distribución por Sexo</h3>
+                [span_15](start_span)<p>El 73.5% de los encuestados fueron mujeres y el 26.5% hombres.[span_15](end_span)</p>
+                <img src="path/to/sexo_chart.png" alt="Gráfico de Distribución por Sexo">
+            </div>
+
+            <div class="chart-container">
+                <h3>Distribución por Edad</h3>
+                <p>La mayoría de los encuestados tienen 18 años (15.7%), seguido por 20 años (7.8%). [span_16](start_span)Se observa una distribución de edades variada, con picos en los primeros años de la edad adulta.[span_16](end_span)</p>
+                <img src="path/to/edad_chart.png" alt="Gráfico de Distribución por Edad">
+            </div>
+
+            <div class="chart-container">
+                <h3>Percepción sobre la Justicia del Apoyo Económico</h3>
+                <p>Respecto a la justicia del apoyo económico recibido por la casa hogar de Chetumal, el 51% considera que es "más o menos justo", mientras que el 30.4% lo ve como "poco justo". [span_17](start_span)Solo el 7.8% lo considera "muy justo" y el 10.8% "totalmente injusto".[span_17](end_span)</p>
+                <img src="path/to/apoyo_economico_chart.png" alt="Gráfico de Percepción sobre Apoyo Económico">
+            </div>
+
+            <div class="chart-container">
+                <h3>Opinión sobre el Papel de la Sociedad</h3>
+                <p>El 52.9% de los encuestados opina que la sociedad "apoya, pero podría hacer más" en el sostenimiento de la casa hogar. [span_18](start_span)El 20.6% cree que la sociedad "se desentiende en su mayoría", y un 17.6% "no está informada/o del tema".[span_18](end_span)</p>
+                <img src="path/to/papel_sociedad_chart.png" alt="Gráfico de Opinión sobre el Papel de la Sociedad">
+            </div>
+
+            <div class="chart-container">
+                <h3>Confiabilidad al Donar a la Casa Hogar</h3>
+                <p>Un 47.1% considera que donar a la casa hogar es "confiable con reservas", y un 27.5% lo ve como "poco confiable". [span_19](start_span)Solo el 18.6% lo considera "muy confiable".[span_19](end_span)</p>
+                <img src="path/to/confiabilidad_donar_chart.png" alt="Gráfico de Confiabilidad al Donar">
+            </div>
+
+            <div class="chart-container">
+                <h3>Opinión sobre el Rol del Gobierno</h3>
+                <p>Una abrumadora mayoría del 77.5% cree que el gobierno "hace poco y debería involucrarse más" en el financiamiento de la casa hogar. [span_20](start_span)El 11.8% piensa que "no hace nada útil" y solo el 7.8% considera que "hace lo suficiente".[span_20](end_span)</p>
+                <img src="path/to/rol_gobierno_chart.png" alt="Gráfico de Opinión sobre el Rol del Gobierno">
+            </div>
+
+            <div class="chart-container">
+                <h3>Sentimiento al Ver Campañas de Apoyo</h3>
+                <p>Ver campañas para apoyar a la casa hogar "hace reflexionar" al 44.1% de los encuestados, mientras que al 33.3% "le motiva a ayudar". [span_21](start_span)El 19.6% experimenta "dudas".[span_21](end_span)</p>
+                <img src="path/to/sentimiento_campanas_chart.png" alt="Gráfico de Sentimiento al Ver Campañas">
+            </div>
+
+            <div class="chart-container">
+                <h3>Impresión de la Casa Hogar</h3>
+                <p>La impresión más común al escuchar sobre la casa hogar es "compasión por las personas que viven ahí" (45.1%). [span_22](start_span)Un 25.5% siente "admiración por su trabajo", pero un 16.7% tiene "desconfianza por el manejo de fondos".[span_22](end_span)</p>
+                <img src="path/to/impresion_casa_hogar_chart.png" alt="Gráfico de Impresión de la Casa Hogar">
+            </div>
+
+            <div class="chart-container">
+                <h3>Opinión sobre la Petición Constante de Ayuda</h3>
+                <p>El 47.1% de los encuestados considera que es "totalmente necesario" que la casa hogar pida ayuda constantemente. [span_23](start_span)Sin embargo, un 23.5% lo ve como "comprensible, pero debería haber límites", y un 25.5% lo considera una "señal de mala administración".[span_23](end_span)</p>
+                <img src="path/to/peticion_ayuda_chart.png" alt="Gráfico de Opinión sobre la Petición de Ayuda">
+            </div>
+
+            <div class="chart-container">
+                <h3>Percepción sobre el Uso del Dinero</h3>
+                <p>El 44.1% de los encuestados cree que la casa hogar "usa el dinero bien, pero podría mejorar", mientras que el 38.2% opina que "no está claro cómo lo usan". [span_24](start_span)Solo el 13.7% cree que "lo usan con responsabilidad".[span_24](end_span)</p>
+                <img src="path/to/uso_dinero_chart.png" alt="Gráfico de Percepción sobre el Uso del Dinero">
+            </div>
+
+            <div class="chart-container">
+                <h3>Valoración del Trabajo de la Casa Hogar</h3>
+                <p>El 49% de los encuestados valora "bastante" el trabajo que hace la casa hogar en su comunidad, y un 19.6% lo valora "muchísimo". [span_25](start_span)Un 31.4% lo valora "poco".[span_25](end_span)</p>
+                <img src="path/to/valoracion_trabajo_chart.png" alt="Gráfico de Valoración del Trabajo">
+            </div>
+
+            <div class="chart-container">
+                <h3>Opinión sobre la Transparencia de la Institución</h3>
+                <p>La opinión predominante (52.9%) es que la transparencia de la institución "depende de cada caso". [span_26](start_span)Un 25.5% considera que "son poco claras" y solo el 9.8% cree que "son bastante transparentes".[span_26](end_span)</p>
+                <img src="path/to/transparencia_chart.png" alt="Gráfico de Transparencia">
+            </div>
+
+            <p>Estos resultados demuestran una percepción mixta en la comunidad. Si bien existe compasión y valoración por el trabajo de la casa hogar, hay claras preocupaciones sobre la transparencia y la gestión de fondos, así como una fuerte demanda de mayor involucramiento gubernamental y social.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Casa Hogar Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casa Hogar Chetumal - Propuestas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        .proposal-item {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Apoyo a la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="solutions">
+            <h2>Soluciones Basadas en la Investigación</h2>
+            <p>Considerando los resultados de la encuesta y el contexto de la situación económica de las casas hogar, proponemos las siguientes soluciones para mejorar el apoyo y la sostenibilidad de la Casa Hogar de Chetumal:</p>
+
+            <div class="proposal-item">
+                <h3>Campañas de Donación</h3>
+                <p>Se propone la organización de campañas activas donde la comunidad pueda donar ropa, despensa y otros artículos esenciales. [span_27](start_span)Esto busca abordar directamente la falta de recursos para las necesidades básicas de los niños[span_27](end_span).</p>
+                <h4>Plan de Acción:</h4>
+                <ul>
+                    <li>Establecer puntos de recolección en lugares estratégicos de la comunidad (escuelas, supermercados, centros comunitarios).</li>
+                    <li>Difundir las campañas a través de redes sociales, carteles y medios de comunicación locales.</li>
+                    <li>Organizar eventos de recolección específicos en fechas clave.</li>
+                </ul>
+                <h4>Recursos Necesarios:</h4>
+                <ul>
+                    <li>Voluntarios para la organización y recolección.</li>
+                    <li>Espacios para almacenamiento temporal.</li>
+                    <li>Material de difusión (carteles, volantes).</li>
+                </ul>
+            </div>
+
+            <div class="proposal-item">
+                <h3>Recaudación de Fondos</h3>
+                [span_28](start_span)<p>Se sugiere la implementación de iniciativas para recaudar fondos en efectivo, permitiendo a las personas que deseen donar dinero hacerlo de manera organizada y transparente[span_28](end_span).</p>
+                <h4>Plan de Acción:</h4>
+                <ul>
+                    <li>Organizar eventos como bazares, carreras con causa, conciertos benéficos o cenas de gala.</li>
+                    <li>Crear plataformas en línea para donaciones directas (crowdfunding).</li>
+                    <li>Buscar alianzas con empresas locales para patrocinios o donaciones corporativas.</li>
+                </ul>
+                <h4>Recursos Necesarios:</h4>
+                <ul>
+                    <li>Equipo de organización de eventos.</li>
+                    <li>Permisos y logística para eventos.</li>
+                    <li>Plataforma de procesamiento de pagos en línea.</li>
+                </ul>
+            </div>
+
+            <div class="proposal-item">
+                <h3>Voluntariado</h3>
+                <p>Se invita a la comunidad a participar como voluntarios para ayudar en diversas tareas, como la limpieza de las instalaciones, la organización de actividades recreativas para los niños, o el apoyo en tutorías. [span_29](start_span)Esto no solo alivia la carga de trabajo del personal, sino que también enriquece la experiencia de los niños[span_29](end_span).</p>
+                <h4>Plan de Acción:</h4>
+                <ul>
+                    <li>Crear un programa de voluntariado con roles y responsabilidades claras.</li>
+                    <li>Realizar convocatorias de voluntarios a través de universidades, grupos comunitarios y redes sociales.</li>
+                    <li>Ofrecer capacitaciones básicas a los voluntarios.</li>
+                </ul>
+                <h4>Recursos Necesarios:</h4>
+                <ul>
+                    <li>Coordinador de voluntarios.</li>
+                    <li>Materiales para las actividades de voluntariado.</li>
+                </ul>
+            </div>
+
+            <div class="proposal-item">
+                <h3>Fomento de la Transparencia y Rendición de Cuentas</h3>
+                [span_30](start_span)[span_31](start_span)[span_32](start_span)<p>Dada la preocupación expresada sobre el manejo de fondos y la transparencia[span_30](end_span)[span_31](end_span)[span_32](end_span), es crucial implementar medidas que aumenten la confianza de los donantes y la comunidad.</p>
+                <h4>Plan de Acción:</h4>
+                <ul>
+                    <li>Publicar informes financieros detallados y accesibles en el sitio web y redes sociales.</li>
+                    <li>Organizar reuniones informativas periódicas para la comunidad sobre el uso de los fondos.</li>
+                    <li>Obtener certificaciones de transparencia de organizaciones externas.</li>
+                </ul>
+                <h4>Recursos Necesarios:</h4>
+                <ul>
+                    <li>Personal capacitado en contabilidad y comunicación.</li>
+                    <li>Plataformas digitales para la publicación de informes.</li>
+                </ul>
+            </div>
+
+            <p>Con estas acciones, se espera que los niños y adolescentes de la casa hogar tengan una mejor calidad de vida y no les falten recursos. [span_33](start_span)La participación de cada persona es fundamental para lograrlo[span_33](end_span).</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Casa Hogar Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
